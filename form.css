@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+label{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.hero{
+    background-image: url(jk.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+.horo{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif }
+
+p{
+
+        color: white;text-align: end;
+    }
+   
